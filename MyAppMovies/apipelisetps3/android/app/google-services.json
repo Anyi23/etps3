@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1015115065015",
+    "project_id": "apipelisetps3",
+    "storage_bucket": "apipelisetps3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015115065015:android:723cc7e5c9348394204f32",
+        "android_client_info": {
+          "package_name": "com.MyAppMovies.apipelisetps3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015115065015-didtcnu6g6e2qm676jb17ek127cl8b9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmK_Q1-Duo6_tly_wL30Fnee31vSvh1RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015115065015-didtcnu6g6e2qm676jb17ek127cl8b9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
